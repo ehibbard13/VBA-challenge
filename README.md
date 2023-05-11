@@ -11,4 +11,4 @@ After that I created a for i loop to run the codes needed to calulate the
 tickers, yearly change, percent change, and total stock. 
 I then formatted the column necessary.
 After that I used the perviously calculated values to find the greatest %
-increase, greatest % decrease, and greatest total volume.
+increase, greatest % decrease, and greatest total volume and got a bit of help with this code by using github. 
